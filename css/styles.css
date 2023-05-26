@@ -1,7 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
-  color: var(--text);
-  background-color: var(--white-background);
+  color: #434455;
+  background-color: #FFFFFF;
 }
 
 .list {
@@ -104,7 +104,6 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-  align-items: center;
   letter-spacing: 0.04em;
   color: var(--white-background);
   background-color: var(--primary-brand);
